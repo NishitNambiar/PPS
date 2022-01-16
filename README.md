@@ -1,3 +1,6 @@
+This program is designed to perform various kinds of data management tasks inside a book database on the computer. It contains the name of the book, the author name, the number of pages and the price of the book. It also keeps track of the number of books in the library database. The main practical tasks you could perform with this program would be of 4 kind. You can add a new book and it's information to the database, you can ask the computer to display that information, you can ask the system to produce a list of the books by the same author, and ofcourse, check the number of total books at a point in time.
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
